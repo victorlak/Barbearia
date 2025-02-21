@@ -5,8 +5,8 @@ import Cadastro from "./View/Cadastro/Cadastro";
 
 function App() {
   return (
-    //<Login/>
-    <Cadastro/>
+    <Login/>
+    //<Cadastro/>
   );
 }
 
